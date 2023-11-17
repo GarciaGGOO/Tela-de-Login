@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TesteTelaLogin</title>
+    <title>Teste Tela Login</title>
 </head>
 <body>
 
-    <h1>TesteTelaLogin</h1>
+    <h1>Teste Tela Login</h1>
 
     <p>Trabalho realizado na matéria de Qualidade e Teste de Softwares com a finalidade de aplicar o modelo de "Test-Driven Development" em uma tela simples de login.</p>
 
